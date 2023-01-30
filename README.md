@@ -1,6 +1,6 @@
 # Hi 👋 , I'm Agustin Bertero
 
- A  Full Stack Developer from Argentina
+ A  Full Stack Developer from España
 
 🧑‍💼 I currently develop web pages on a freelance basis.
 
