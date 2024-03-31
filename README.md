@@ -8,7 +8,7 @@
 
 👨‍💻 All of my projects are available at https://github.com/AgustinBertero
 
-🧑‍💻 Tech Stack: HTML, CSS, SASS, JavaScript, ReactJS, NodeJS, PHP , MySQL. 
+🧑‍💻 Tech Stack: HTML, CSS, SASS, JavaScript, ReactJS, NodeJS, PHP ,Laravel, MySQL. 
 
 📄 Know about my experiences 
 
